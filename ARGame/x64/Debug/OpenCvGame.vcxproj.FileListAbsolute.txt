@@ -1,0 +1,2 @@
+C:\uni\Advanced games\OpenCvGame\x64\Debug\OpenCvGame.exe
+C:\uni\Advanced games\OpenCvGame\x64\Debug\OpenCvGame.pdb
